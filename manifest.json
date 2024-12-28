@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.some-package": "1.0.0",
+    "com.potatowiz69.editorcools": "https://github.com/potatowiz69/EditorCools.git"
+  }
+}
